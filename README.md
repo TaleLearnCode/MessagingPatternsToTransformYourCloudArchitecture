@@ -18,7 +18,7 @@ In today’s fast-evolving cloud landscape, messaging patterns are the quiet ena
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Jasper Engines (Private Event) | Jasper, IN | 2025-06-03 | 14:30 EDT | FRED 1 | [Slides](EventMaterials/MessagingPatterns-Jasper-DEV01-02.pptx.pptx) / [Demos](Demos/readme.md) |
+| Jasper Engines (Private Event) | Jasper, IN | 2025-06-03 | 14:30 EDT | FRED 1 | [Slides](EventMaterials/MessagingPatterns-Jasper-DEV01-02.pptx) / [Demos](Demos/readme.md) |
 | [Tulsa .NET User Group](https://www.meetup.com/tulsadevelopers-net/events/308068892) | Tulsa, OK (Virtual) | 2025-05-28 | 18:15 CDT | Virtual | [Slides](EventMaterials/MessagingPatterns-Tulsa.pptx) / [Demos](Demos/readme.md) |
 | Jasper Engines (Private Event) | Jasper, IN | 2025-05-13 | 13:00 EDT | FRED 3 | [Slides](EventMaterials/MessagingPatterns-Jassper-DEV03.pptx) / [Demos](Demos/readme.md) |
 | [Atlanta Cloud Conference](https://atlantacloudconference.com/) | Atlanta, GA | 2025-04-26 | 13:15 EDT | 105 | [Slides](EventMaterials/MessagingPatterns-AtlantaCloudConference2025.pptx) / [Demos](Demos/readme.md) |
