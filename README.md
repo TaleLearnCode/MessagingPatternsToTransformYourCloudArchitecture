@@ -1,4 +1,4 @@
-![Messaging Patterns to Transform Your Cloud Architecture](Thumbnail.jpg)
+![Messaging Patterns to Transform Your Cloud Architecture](thumbnail.jpg)
 
 # Messaging Patterns to Transform Your Cloud Architecture
 
